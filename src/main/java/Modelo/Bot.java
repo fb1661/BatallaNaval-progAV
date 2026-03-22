@@ -4,7 +4,7 @@ package batalla_naval.modelo;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Bot {
+public class Bot extends Jugador {
     // ─── Atributos ────────────────────────────────────────────────────────────
 
     /** Generador de números aleatorios. */
