@@ -9,7 +9,7 @@ package Modelo;
  * @author taka
  */
 import java.util.List;
-public class Jugador {
+public abstract class Jugador  {
     // ─── Atributos protegidos ─────────────────────────────────────────────────
 
     /** Tablero personal del jugador donde se colocan sus barcos. */
