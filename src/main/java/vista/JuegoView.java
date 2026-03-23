@@ -1,8 +1,5 @@
 package vista;
-
-package batalla_naval.Vista;
-
-import batalla_naval.modelo.*;
+import modelo.*;
 
 import javax.swing.*;
 import java.awt.*;
